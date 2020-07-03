@@ -1,0 +1,28 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Mua Hoa</title>
+</head>
+<body>
+	<div>
+		<h1>Form mua hoa</h1>
+		<form action="" method="post">
+		<label>ID Hoa: </label>
+		<input type ="text" value="" name="idhoa"/><br>
+		
+		<label>Tên Hoa: </label>
+		<input type ="text" value="" name="tenhoa"/><br>
+		
+		<label>Số Lượng: </label>
+		<input type ="text" value="" name="soluong"/><br>
+		
+		<label>Giá Bán: </label>
+		<input type ="text" value="" name="giaban"/><br>
+	<input type="submit" value="mua" name="submit">
+		</form>
+	</div>
+</body>
+</html>

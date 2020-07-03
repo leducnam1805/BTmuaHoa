@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+E:\java\20_JSP_SERVLETD4\video\baitapvideo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1709098806.index
+\jspd5\src

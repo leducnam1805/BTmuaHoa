@@ -1,0 +1,10 @@
+package been;
+
+public class Hoa {
+	private int idHoa;
+	private String tenHoa;
+	private int soLuong;
+	private float giaBan;
+	
+	
+}

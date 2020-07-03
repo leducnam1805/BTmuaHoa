@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\java\20_JSP_SERVLETD4\video\baitapvideo\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+290499710.index
+3356408908.index
+1666517857.index
+320713258.index
+925577518.index
+4088361790.index
